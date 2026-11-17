@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "A free diver glides slowly through a towering kelp forest, sunlight falling in shafts through the green water, small silver fish scattering as she passes and particles drifting in the light. The camera follows from behind and slightly below, then she turns and swims up toward the bright surface. Sound: muffled underwater ambience, gentle bubbles, a soft ambient pad. No subtitles, no on-screen text.",
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

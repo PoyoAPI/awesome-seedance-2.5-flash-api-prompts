@@ -1,0 +1,28 @@
+{
+  "source": "PoYo models.json, entry seedance-2-5-flash",
+  "updatedAt": "2026-11-16",
+  "no_video": {
+    "480p": {
+      "credits": 18.5,
+      "usd": 0.0925,
+      "unit": "per second"
+    },
+    "720p": {
+      "credits": 41,
+      "usd": 0.205,
+      "unit": "per second"
+    }
+  },
+  "with_video": {
+    "480p": {
+      "credits": 11.5,
+      "usd": 0.0575,
+      "unit": "per billed second"
+    },
+    "720p": {
+      "credits": 25.5,
+      "usd": 0.1275,
+      "unit": "per billed second"
+    }
+  }
+}

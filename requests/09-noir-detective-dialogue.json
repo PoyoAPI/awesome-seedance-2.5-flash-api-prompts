@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Black-and-white film noir. A detective in a trench coat and fedora stands under a flickering streetlamp in the rain, lighting a match that briefly illuminates his tired face. He looks down the empty street and mutters, \"She was never coming back.\" Slow push-in to a close-up as the match goes out. Sound: heavy rain, distant thunder, a lonely saxophone. No subtitles, no on-screen text.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

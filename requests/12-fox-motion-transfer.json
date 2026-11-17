@@ -1,0 +1,15 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Use @Image1 for the red fox with its brass compass. Follow the trotting rhythm and side-tracking camera of @Video1. The fox trots along a path in an autumn city park, orange leaves swirling around its paws, warm late-afternoon light. Sound: rustling leaves and distant city traffic. No subtitles.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "reference_video_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-motion.mp4"
+    ],
+    "duration": 6,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "@Image1 is the red fox with the brass compass. The fox explores a quiet misty meadow at sunrise, pausing to sniff wildflowers and then bounding forward. Match the rhythm and mood of @Audio1 in the pacing of its movement. No subtitles.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "reference_audio_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-audio.mp3"
+    ],
+    "duration": 5,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "The man finishes fixing the chair leg, stands up, steps back to look at the table under the mosaic canopy, and nods with satisfaction as loose mosaic pieces on the floor flutter in a light breeze. Locked-off wide shot. Sound: a last tap of a mallet, footsteps, a soft breeze.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-last-frame.jpg"
+    ],
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "auto"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Follow the locked-off framing and time-lapse pacing of @Video1. A closed red tulip in a clear glass jar on a sunny kitchen table slowly opens its petals over the course of the shot while the shadows of the window frame move across the table. Soft morning birdsong. No subtitles.",
+    "reference_video_urls": [
+      "https://storage.poyo.ai/happy-horse/flower-timelapse.mp4"
+    ],
+    "duration": 6,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}

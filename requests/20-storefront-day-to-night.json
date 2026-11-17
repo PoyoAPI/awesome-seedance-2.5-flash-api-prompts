@@ -1,0 +1,13 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Locked-off time-lapse of the storefront: start from the daytime scene in the first frame, let the sky darken, the street lamps and shop lights turn on, and pedestrians blur past, and end exactly on the nighttime scene in the last frame. Soft city ambience.",
+    "image_urls": [
+      "https://example.com/your-storefront-day.jpg",
+      "https://example.com/your-storefront-night.jpg"
+    ],
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "auto"
+  }
+}

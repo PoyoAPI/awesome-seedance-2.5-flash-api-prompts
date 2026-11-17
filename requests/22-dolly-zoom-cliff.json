@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Dolly zoom shot: a lone hiker in a red jacket stands at the edge of a sea cliff, framed from the waist up. The camera moves backward while zooming in, so the hiker stays the same size while the ocean and the cliffs behind her stretch and loom closer. Overcast light, wind whipping her hair. Sound: roaring wind, crashing waves far below, a rising tense string note. No subtitles.",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

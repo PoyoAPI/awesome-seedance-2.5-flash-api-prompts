@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Ultrawide establishing shot of a camel caravan crossing towering sand dunes at golden hour. Long shadows stretch across the ripples, wind lifts fine sand from the dune crests, and the camera trucks slowly to the right, keeping the caravan small against the vast landscape. Sound: wind over sand, soft camel bells, a low cello drone. No subtitles, no on-screen text.",
+    "duration": 10,
+    "resolution": "720p",
+    "aspect_ratio": "21:9"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "FPV drone shot: the camera dives off the top of a jungle waterfall, follows the falling water down the cliff, banks hard through mist and rainbows, then skims low over a turquoise river winding through a narrow canyon. Fast, smooth, continuous flight with no cuts. Sound: rushing water, wind noise, a driving electronic beat.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

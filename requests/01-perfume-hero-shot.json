@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Luxury perfume commercial. A faceted glass perfume bottle with amber liquid stands on a black marble plinth. A slow arc of warm light sweeps across the glass, throwing caustic reflections onto the marble, while fine mist drifts behind the bottle. Slow push-in from a medium shot to a close-up of the cap. Sound: a soft airy swell and a single deep piano note. No people, no subtitles, no on-screen text.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

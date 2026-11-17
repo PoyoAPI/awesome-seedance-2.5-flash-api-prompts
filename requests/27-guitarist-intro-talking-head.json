@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "The musician looks into the camera, smiles, and says, \"This one's called Late Train Home.\" Then he looks down at the guitar and starts strumming a slow folk melody. The lamp light flickers warmly behind him. Sound: his voice, acoustic guitar, quiet room tone.",
+    "image_urls": [
+      "https://storage.poyo.ai/happy-horse-1-1/image-to-video-input.png"
+    ],
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "auto"
+  }
+}

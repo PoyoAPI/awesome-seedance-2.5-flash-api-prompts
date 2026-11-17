@@ -1,0 +1,13 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Surreal match-cut transition: the pastel ice-cream scoops melt into a flowing wave of color across the white floor, the wave rises and hardens into coral walls, and the scene settles into the coral room where a man kneels beside a wooden table under a mosaic canopy. Smooth continuous camera, no cuts. Sound: a soft liquid swoosh that turns into a calm room tone.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-first-frame.jpg",
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-last-frame.jpg"
+    ],
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "auto"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "One continuous 30-second story of the same young woman in a yellow raincoat delivering a handwritten letter across a small seaside town at dawn. 0-6s: wide aerial shot of the sleepy harbor town, fishing boats rocking, soft morning light; she rides an old bicycle down a cobblestone hill. 6-12s: tracking shot beside her as she weaves past a fish market, seagulls lifting off, a vendor waves at her. 12-18s: low-angle shot as she climbs a steep stone staircase carrying the bicycle, breathing hard, the letter tucked in her pocket. 18-24s: she knocks on a blue door at the top; an elderly man opens it and she hands him the letter. 24-30s: close-up of the man reading, his eyes filling with tears; he smiles and says softly, \"She remembered.\" Camera slowly pulls back to reveal the sunrise over the sea. Natural ambient sound: waves, gulls, bicycle bell, footsteps, gentle piano music. No subtitles, no on-screen text.",
+    "duration": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  }
+}

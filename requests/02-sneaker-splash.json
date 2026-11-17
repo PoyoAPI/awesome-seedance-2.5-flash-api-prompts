@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Vertical product ad. A white running sneaker drops in slow motion onto a shallow puddle on a dark rooftop at night. Water bursts outward in a crown splash, droplets catch neon-blue rim light, then the shoe lands and the camera tilts up to a low hero angle. Sound: a heavy splash, a bass hit, and city ambience. No logos, no subtitles, no on-screen text.",
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "9:16"
+  }
+}

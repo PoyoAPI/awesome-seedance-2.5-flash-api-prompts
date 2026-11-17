@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Vertical street interview on a busy city sidewalk in the afternoon. A young male interviewer holds a small microphone toward an older woman with silver hair and asks, \"What's the best advice you've ever gotten?\" She laughs and answers, \"Never skip breakfast, and never skip a chance to dance.\" Handheld camera, natural light, passersby in the background. Sound: street ambience, their voices. No subtitles, no on-screen text.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "9:16"
+  }
+}

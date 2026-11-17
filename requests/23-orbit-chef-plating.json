@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Smooth 360-degree orbit around a chef in a white jacket plating a dessert at a stainless-steel counter in a dim restaurant kitchen. Tweezers place an edible flower, a spoon draws a swoosh of raspberry sauce, and steam rises from a nearby pan in the warm backlight. Sound: kitchen clatter, a sizzling pan, quiet jazz from a radio. No subtitles, no on-screen text.",
+    "duration": 6,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

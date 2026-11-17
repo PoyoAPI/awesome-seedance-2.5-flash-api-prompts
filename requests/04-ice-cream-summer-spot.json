@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "The pastel ice-cream scoops slowly soften in warm summer light. A drip runs down the side of the yellow cone, sugar crystals sparkle and tumble across the white floor, and the camera glides slowly from left to right along the row of cones. Sound: light playful ukulele music and a soft crunch of sugar. No people, no subtitles.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-first-frame.jpg"
+    ],
+    "duration": 6,
+    "resolution": "480p",
+    "aspect_ratio": "auto"
+  }
+}

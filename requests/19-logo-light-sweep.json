@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "A slow sweep of white light moves across the brushed-metal PY letters from left to right, catching the bevelled edges, while the camera drifts slightly closer. Keep the letters unchanged. Sound: a soft metallic shimmer. No other text.",
+    "image_urls": [
+      "https://storage.poyo.ai/qwen-image-3-pro/reference-material.jpg"
+    ],
+    "duration": 4,
+    "resolution": "480p",
+    "aspect_ratio": "auto"
+  }
+}

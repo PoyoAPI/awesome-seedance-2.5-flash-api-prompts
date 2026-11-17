@@ -1,0 +1,13 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "@Image1 is the bearded musician with his acoustic guitar; @Image2 is the red fox with the brass compass. At night in a pine forest, the musician sits on a log by a campfire on the left of the frame and plays a gentle melody, while the fox curls up on the right side, its ears twitching to the music. Firelight flickers on both. Slow push-in. Sound: crackling fire, acoustic guitar, crickets. No subtitles.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/happy-horse-1-1/image-to-video-input.png",
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "duration": 10,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

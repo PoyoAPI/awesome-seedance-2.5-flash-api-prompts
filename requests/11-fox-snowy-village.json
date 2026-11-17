@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "@Image1 is the red fox with the brass compass on a cord. The same fox walks through a snowy mountain village at night, past glowing windows and a wooden sled, stops, and looks back at the camera as snowflakes land on its fur. Keep its face, fur colors, and the brass compass exactly as in @Image1. Sound: crunching snow, distant bells, soft wind. No subtitles.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

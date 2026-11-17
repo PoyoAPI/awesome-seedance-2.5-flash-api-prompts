@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Vertical POV shot looking down at a wooden desk: two hands slide open a matte black gift box, lift tissue paper, and pull out a pair of white wireless earbuds in a charging case, then flip the case open toward the camera. Daylight from a nearby window. Sound: paper rustling, the soft click of the case, a quiet excited \"Oh, nice.\" No logos, no subtitles, no on-screen text.",
+    "duration": 8,
+    "resolution": "480p",
+    "aspect_ratio": "9:16"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Vertical beauty ad in a bright bathroom with morning sun. Close-up of a glass dropper releasing a single drop of clear serum onto a fingertip, then the camera rises to a woman in her thirties smoothing it onto her cheek and smiling into the mirror. A calm female voiceover says, \"Ten seconds in the morning. Glow all day.\" Soft water sounds and gentle ambient music. No subtitles, no on-screen text.",
+    "duration": 10,
+    "resolution": "720p",
+    "aspect_ratio": "9:16"
+  }
+}

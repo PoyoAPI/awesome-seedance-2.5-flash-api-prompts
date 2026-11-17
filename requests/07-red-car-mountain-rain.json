@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Tracking shot alongside a red sports car carving through a winding mountain road in heavy rain. The camera keeps pace beside the car as it leans into a tight curve, spray rising from the tires, rain streaking past, headlights cutting through low clouds, dark pine forest and wet asphalt reflecting the light. The same red car stays sharp and consistent throughout. Sound: engine roar rising through the gears, tires hissing on wet asphalt, steady rain. No subtitles, no on-screen text.",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  }
+}

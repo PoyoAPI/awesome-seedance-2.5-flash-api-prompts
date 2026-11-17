@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "@Image1 is the bearded musician in the olive flannel shirt with his acoustic guitar. The same man sits on a rooftop at dusk with the city lights coming on behind him, strums the guitar, and sings softly, \"Late train home, I'm on my way.\" Slow orbit from his side to the front. Sound: acoustic guitar, his voice, light city ambience. No subtitles, no on-screen text.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/happy-horse-1-1/image-to-video-input.png"
+    ],
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

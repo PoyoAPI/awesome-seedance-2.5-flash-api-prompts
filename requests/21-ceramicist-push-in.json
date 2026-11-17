@@ -1,0 +1,10 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Close-up of a ceramicist's hands shaping wet clay on a spinning pottery wheel. Warm golden window light from the side, dust particles floating in the air, water glistening on the clay as the fingers press inward and the bowl rises and widens. Shallow depth of field, slow push-in, the same pair of hands and the same bowl throughout. Sound: the soft whir of the wheel, wet clay squelching, quiet studio ambience. No music, no subtitles, no on-screen text.",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  }
+}

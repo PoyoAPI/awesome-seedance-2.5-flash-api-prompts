@@ -1,0 +1,12 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "@Image1 is the brushed-metal PY logo. Start on an extreme macro of the brushed metal surface, then pull back slowly as a thin line of white light travels along the edges of the letters and reveals the full logo on a black background. Keep the letter shapes and proportions exactly as in @Image1. Sound: a low cinematic whoosh and a deep bass hit when the logo is fully revealed. No other text.",
+    "reference_image_urls": [
+      "https://storage.poyo.ai/qwen-image-3-pro/reference-material.jpg"
+    ],
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9"
+  }
+}

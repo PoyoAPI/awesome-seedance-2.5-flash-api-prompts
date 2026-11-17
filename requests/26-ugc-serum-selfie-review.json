@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "Handheld vertical selfie video: a woman in her twenties in a sunlit bathroom holds a small amber glass serum bottle up to the camera and says casually, \"Okay, two weeks with this serum and my skin has never been this calm. Honestly, I'm obsessed.\" Natural slight camera shake, real room acoustics, faint birdsong outside the window. No subtitles, no on-screen text.",
+    "duration": 10,
+    "resolution": "720p",
+    "aspect_ratio": "9:16"
+  }
+}

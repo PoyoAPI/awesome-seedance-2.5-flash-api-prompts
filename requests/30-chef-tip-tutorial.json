@@ -1,0 +1,9 @@
+{
+  "model": "seedance-2.5-flash",
+  "input": {
+    "prompt": "A friendly chef in a home kitchen faces the camera, holds up a lemon, and says, \"Roll it on the counter first and you'll get twice the juice.\" He presses the lemon under his palm, rolls it, cuts it, and squeezes it into a glass bowl. Medium shot, bright natural light. Sound: his voice, the knife on the board, juice dripping. No subtitles, no on-screen text.",
+    "duration": 10,
+    "resolution": "480p",
+    "aspect_ratio": "16:9"
+  }
+}
